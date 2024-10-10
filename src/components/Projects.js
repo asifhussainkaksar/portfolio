@@ -23,10 +23,10 @@ export const Projects = () => {
       projectUrl: "https://tpc-iit-patna.onrender.com/"
     },
     {
-      title: "Talk-A-Tive",
-      description: "Real-Time Chat Application",
+      title: "Book_Hub",
+      description: "Allows users to manage posts, reviews, ratings and notes of books, and chat with other readers",
       imgUrl: projImg1,
-      projectUrl: "https://talk-a-tive-7fgq.onrender.com/"
+      projectUrl: "https://book-hub-j1tb.onrender.com/search/"
     },
     {
       title: "Rating Converter",
