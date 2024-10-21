@@ -1,5 +1,5 @@
 # Personal Portfolio Website in React
-Project is live at https://awakemanish.github.io/Portfolio/
+Project is live at https://asifhussainkaksar.github.io/Portfolio/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Built using:
@@ -32,3 +32,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+### in order to deploy go through the below
+https://chatgpt.com/share/6707c7ae-5ff0-800f-893c-45b71ae21182
